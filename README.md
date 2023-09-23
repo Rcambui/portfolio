@@ -1,2 +1,17 @@
-# portfolio
-Projeto do meu primeiro portfólio desenvolvido com os cursos de HTML e CSS da Alura
+# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+
+
+
+## Ferramentas utilizadas:
+
+* HTML
+
+* CSS
+
+* Flex-box
+
+## Feito por:
+
+### Ricardo Cambui
+
+### Linkedin: https://www.linkedin.com/in/ricardo-cambui/
