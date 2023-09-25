@@ -1,4 +1,7 @@
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Portfólio 
+Olá, Bem vindo ao meu projeto de portfólio.
+
+![image](https://raw.githubusercontent.com/Rcambui/portfolio/main/assets/Captura%20de%20Tela%202023-09-22%20a%CC%80s%2016.40.12.png)
 
 
 
